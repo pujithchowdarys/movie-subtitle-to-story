@@ -1,0 +1,7 @@
+{
+  "name": "Movie Storyteller & Live AI",
+  "description": "Generate movie stories, analyze video transcripts, engage in real-time conversations, and get answers using Gemini AI with text-to-speech narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
